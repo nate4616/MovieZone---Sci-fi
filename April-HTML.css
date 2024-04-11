@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000; /* Sort baggrund */
+    color: #fff; /* Hvid tekst farve */
+}
+
+section{
+	background-color: #000000;
+}
+
+/* Menu-bar */
+
+nav {
+    font-family: 'DM Serif Display', serif;
+    padding-top: 3px;
+	display: flex;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li{
+	text-decoration: none;
+}
+
+ul a{
+	text-decoration: none;
+}
+
+.img-container{
+	background-color: #000000;
+}
